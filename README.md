@@ -7,7 +7,7 @@
 
 - I'm  **Learner** | **Programmer** 
 - About me :- **React Dev** | **MERN Enthusiast**
-- Currently practicing **Deep Learning**
+- Currently practicing **React Native**
 
 
 ### Feel Free to Contact me.....
