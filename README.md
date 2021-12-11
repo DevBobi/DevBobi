@@ -6,7 +6,7 @@
 
 
 - I'm  **Learner** | **Programmer** 
-- About me :- **React Dev** | **MERN Enthusiast**
+- About me : **React Js Developer** | **MERN Enthusiast**
 - Currently practicing **React Native**
 
 
