@@ -1,5 +1,4 @@
-### Hi there 👋
-## Hi there, I'm Bobi 
+## Hi there 👋, I'm Bobi 
 
 <p align="center">
 <img width="20%" src="https://img.icons8.com/ios-filled/96/000000/programming.png"/>
