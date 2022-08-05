@@ -13,7 +13,7 @@
 
 ### Feel Free to Contact me.....
 
-<p align="center">
+<p align="start">
 	<a href="https://github.com/DevBobi"><img alt="github" width="5%" style="padding:2px" src="https://img.icons8.com/color/480/000000/github--v1.png"/></a>
 	<a href="https://www.linkedin.com/in/mdsaifurrahaman/"><img alt="linkedin" width="5%" style="padding:2px" src="https://img.icons8.com/color-glass/240/000000/linkedin.png"/></a>
 	<a href="https://www.facebook.com/TashfimPiyalBobi/"><img alt="facebook" width="5%" style="padding:2px" src="https://img.icons8.com/doodle/480/000000/facebook-new.png"/></a>
