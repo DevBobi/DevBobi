@@ -6,27 +6,26 @@
 </p>
 
 
-- I'm  **Learner** | **Programmer** 
+- I'm  **Programmer** | **Learner** 
 - About me : **React Js Developer** | **MERN Stack Enthusiast**
-- Currently practicing **React Native**
+- Currently practicing **Nodejs and DSA**
 
 
 ### Feel Free to Contact me.....
 
 <p align="center">
-	<a href="https://github.com/DevBobi"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/color/480/000000/github--v1.png"/></a>
-	<a href="https://www.linkedin.com/in/mdsaifurrahaman/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/color-glass/240/000000/linkedin.png"/></a>
-	<a href="https://www.facebook.com/TashfimPiyalBobi/"><img alt="facebook" width="10%" style="padding:5px" src="https://img.icons8.com/doodle/480/000000/facebook-new.png"/></a>
-	<a href="https://www.instagram.com/tashfim_bobi/"><img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/ios/250/000000/instagram-new--v1.png"/></a>
+	<a href="https://github.com/DevBobi"><img alt="github" width="5%" style="padding:2px" src="https://img.icons8.com/color/480/000000/github--v1.png"/></a>
+	<a href="https://www.linkedin.com/in/mdsaifurrahaman/"><img alt="linkedin" width="5%" style="padding:2px" src="https://img.icons8.com/color-glass/240/000000/linkedin.png"/></a>
+	<a href="https://www.facebook.com/TashfimPiyalBobi/"><img alt="facebook" width="5%" style="padding:2px" src="https://img.icons8.com/doodle/480/000000/facebook-new.png"/></a>
+	<a href="https://www.instagram.com/tashfim_bobi/"><img alt="instagram" width="5%" style="padding:2px" src="https://img.icons8.com/ios/250/000000/instagram-new--v1.png"/></a>
 </p>
 
-### Programming Languages....
+### Tech Stack....
 
-<p align="center">
-	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/480/000000/javascript--v1.png"/>
-	<img width="10%" style="padding:5px" src="https://img.icons8.com/bubbles/500/000000/react.png"/>
-	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/480/000000/nodejs.png"/>
-	<img width="10%" style="padding:5px" src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/96/000000/external-mongodb-a-cross-platform-document-oriented-database-program-logo-filled-tal-revivo.png"/>
+<p align="start">
+	<img width="5%" style="padding:2px" src="https://img.icons8.com/color/480/000000/javascript--v1.png"/>
+	<img width="5%" style="padding:2px" src="https://img.icons8.com/color/480/000000/nodejs.png"/>
+	<img width="5%" style="padding:2px" src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/96/000000/external-mongodb-a-cross-platform-document-oriented-database-program-logo-filled-tal-revivo.png"/>
 </p>
 
 #### Profile views counter
