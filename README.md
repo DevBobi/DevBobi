@@ -1,32 +1,43 @@
-## Hi there! 👋
-## I'm Bobi 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/25548490/121235884-40eab680-c88d-11eb-9a5d-b923d7df4905.png" width="120" />  
+  <h1 align="center"><a href="https://codewonders.dev">I'm Adenekan Wonderful</a></h1>
+  <p align="center"> Frontend developer, UX architect and JavaScript engineer</p>
+</p>
 
 <p align="center">
-<img width="20%" src="https://img.icons8.com/ios-filled/96/000000/programming.png"/>
+  <a href="https://codewonders.dev">Portfolio</a> | 
+  <a href="https://twitter.com/code_wonders">Twitter</a> |
+  <a href="https://linkedin.com/in/codewonders">LinkedIn</a>
 </p>
 
+<br />
 
-- I'm  **Programmer** | **Learner** 
-- About me : **React Js Developer** | **MERN Stack Enthusiast**
-- Currently practicing **Nodejs and DSA**
+💫 I'm currently working with my hands to make magic happen on the web. View my [Projects](https://codewonders.dev/projects), [Articles](https://codewonders.dev/articles), [Resumé](https://codewonders.dev/resume), [Contact Me](https://codewonders.dev/contact).
+
+📫 You can reach me at hellocodewonders@gmail.com.
+
+- 😄 Pronouns: He/Him
+- 🌱 I’m currently learning about anything and everything around JavaScript.
+- 👓 Yeah I'm a photochromic lens enthusiast, see my collections [here](https://codewonders.dev/lens)
+- 💬 Ask me about JavaScript, CSS, React, Vue and anything about Jazz Music 🎺
+- ⚡ Fun fact: I play the drums 🥁.
 
 
-### Feel Free to Contact me.....
 
-<p align="start">
-	<a href="https://github.com/DevBobi"><img alt="github" width="5%" style="padding:2px" src="https://img.icons8.com/color/480/000000/github--v1.png"/></a>
-	<a href="https://www.linkedin.com/in/mdsaifurrahaman/"><img alt="linkedin" width="5%" style="padding:2px" src="https://img.icons8.com/color-glass/240/000000/linkedin.png"/></a>
-	<a href="https://www.facebook.com/TashfimPiyalBobi/"><img alt="facebook" width="5%" style="padding:2px" src="https://img.icons8.com/doodle/480/000000/facebook-new.png"/></a>
-	<a href="https://www.instagram.com/tashfim_bobi/"><img alt="instagram" width="5%" style="padding:2px" src="https://img.icons8.com/ios/250/000000/instagram-new--v1.png"/></a>
-</p>
+<!--
+**adenekan41/adenekan41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-### Tech Stack....
-
-<p align="start">
-	<img width="5%" style="padding:2px" src="https://img.icons8.com/color/480/000000/javascript--v1.png"/>
-	<img width="5%" style="padding:2px" src="https://img.icons8.com/color/480/000000/nodejs.png"/>
-	<img width="5%" style="padding:2px" src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/96/000000/external-mongodb-a-cross-platform-document-oriented-database-program-logo-filled-tal-revivo.png"/>
-</p>
+Here are some ideas to get you started:
+https://user-images.githubusercontent.com/25548490/121235376-b86c1600-c88c-11eb-9650-2c86c77f43ac.png
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 
 #### Profile views counter
 ![Visitor Count](https://profile-counter.glitch.me/{DevBobi}/count.svg)
