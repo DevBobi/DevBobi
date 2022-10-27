@@ -1,6 +1,6 @@
 <p align="center">
 <!--   <img src="https://user-images.githubusercontent.com/25548490/121235884-40eab680-c88d-11eb-9a5d-b923d7df4905.png" width="120" />   -->
-  <h1 align="center"><a href="https://codewonders.dev">I'm Bobi</a></h1>
+  <h1 align="center"><a href="https://bobi-web-portfolio.vercel.app/">I'm Bobi</a></h1>
   <p align="center"> Frontend developer, and JavaScript engineer</p>
 </p>
 
@@ -20,7 +20,7 @@
 - 🌱 I’m currently learning about anything and everything around JavaScript.
 - 👓 Yeah I'm a photochromic lens enthusiast
 - 💬 Ask me about JavaScript, CSS, React, Gatsby and anything about Pop Music 🎺
-- ⚡ Fun fact: I like to watch night sky!✨
+- ⚡ Fun fact: I like watching night sky!✨
 
 
 
