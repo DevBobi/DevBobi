@@ -16,11 +16,11 @@
 
 📫 You can reach me at devbobi505@gmail.com.
 
-- 😄 Pronouns: He/Him
-- 🌱 I’m currently learning about anything and everything around JavaScript.
-- 👓 Yeah I'm a photochromic lens enthusiast
-- 💬 Ask me about JavaScript, CSS, React, Gatsby and anything about Pop Music 🎺
-- ⚡ Fun fact: I like watching night sky!✨
+- Pronouns: He/Him
+- I’m currently learning about anything and everything around JavaScript.
+- Yeah I'm a high functioning sociopath
+- Ask me about JavaScript, CSS, React, Gatsby and anything about Pop Music 
+- Fun fact: I like watching night sky!✨
 
 
 
