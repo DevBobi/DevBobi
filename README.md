@@ -1,7 +1,7 @@
 <p align="center">
 <!--   <img src="https://user-images.githubusercontent.com/25548490/121235884-40eab680-c88d-11eb-9a5d-b923d7df4905.png" width="120" />   -->
   <h1 align="center"><a href="https://bobi-web-portfolio.vercel.app/">I'm Bobi</a></h1>
-  <p align="center"> Frontend developer, and JavaScript engineer</p>
+  <p align="center"> Fullstack developer, and JavaScript enthusiast</p>
 </p>
 
 <p align="center">
