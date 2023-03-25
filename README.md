@@ -43,5 +43,3 @@ https://user-images.githubusercontent.com/25548490/121235376-b86c1600-c88c-11eb-
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=devbobi&theme=tokyonight)  
  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=devbobi&theme=tokyonight&bg_color=0d1117&color=319e94&line=6fa4fc&point=FFFFFF&hide_border=true)  
