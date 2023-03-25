@@ -38,3 +38,14 @@ https://user-images.githubusercontent.com/25548490/121235376-b86c1600-c88c-11eb-
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## My Stats 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devbobi&hide_border=true&theme=tokyonight)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=devbobi&show_icons=true&hide_border=true&theme=tokyonight)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=devbobi&theme=tokyonight)  
+ 
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=devbobi&theme=tokyonight&bg_color=0d1117&color=319e94&line=6fa4fc&point=FFFFFF&hide_border=true)  
