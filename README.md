@@ -19,7 +19,7 @@
 - Pronouns: He/Him
 - I’m currently learning about anything and everything around JavaScript.
 - Yeah I'm a high-functioning sociopath
-- Ask me about JavaScript, CSS, React, Gatsby and anything about Pop Music 
+- Ask me about JavaScript, CSS, React, Gatsby, and anything about Pop Music 
 - Fun fact: I like watching the night sky!✨
 
 
@@ -42,4 +42,7 @@ https://user-images.githubusercontent.com/25548490/121235376-b86c1600-c88c-11eb-
 ## My Stats 
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=devbobi&theme=tokyonight)  
+
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
  
