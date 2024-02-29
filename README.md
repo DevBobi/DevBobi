@@ -19,8 +19,8 @@
 - Pronouns: He/Him
 - I’m currently learning about anything and everything around JavaScript.
 - Yeah I'm a high-functioning sociopath
-- Ask me about JavaScript, CSS, React, Gatsby, and anything about Pop Music 
-- Fun fact: I like watching the night sky!✨
+- Ask me about JavaScript, TypeScript, NextJs, ReactJs, CSS, CSS Preprocessor, and anything about Pop Music 
+- Fun fact: I like stargazing & reading books!✨
 
 
 
