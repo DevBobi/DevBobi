@@ -5,7 +5,8 @@
 </p>
 
 <p align="center">
-  <a href="https://bobi-web-portfolio.vercel.app/">Portfolio</a> | 
+<!--   <a href="https://bobi-web-portfolio.vercel.app/">Portfolio</a> |  -->
+  <a href="https://bobi505.netlify.app/">Portfolio</a> | 
   <a href="https://instagram.com/bobi0zz/">Instagram</a> |
   <a href="https://linkedin.com/in/">LinkedIn</a>
 </p>
